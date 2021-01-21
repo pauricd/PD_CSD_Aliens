@@ -29,7 +29,7 @@ public class Raygun {
     public void fireAt(Alien a) {
         //TODO: Implement the method
         /*The gun should only fire if it is charged. Firing the gun will reduce the charge by 1. If the alien isDodging
-        * alien.miss() should be called, otherwise bug.hit */
+        * alien.miss() should be called, otherwise alien.hit */
 
     }
 
